@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494743156287",
+    "firebase_url": "https://mylauncher-f73fd.firebaseio.com",
+    "project_id": "mylauncher-f73fd",
+    "storage_bucket": "mylauncher-f73fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494743156287:android:c88c08ceb049f976",
+        "android_client_info": {
+          "package_name": "com.fernando.mylauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494743156287-b1c4casgpakkk73hfnp1mmvfatch4ffi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15IgXFw-q2CshmnlJuq695pO6HV4u4Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
